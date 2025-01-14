@@ -1,2 +1,2 @@
-# final_project_repository
+# agile_final_project
 This is the final project repository.
